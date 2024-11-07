@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|c:\\users\\ledin\\source\\repos\\baicuoiki2\\controller\\export slip controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|solutionrelative:controller\\export slip controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|c:\\users\\ledin\\source\\repos\\baicuoiki2\\view\\export slip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|solutionrelative:view\\export slip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|c:\\users\\ledin\\source\\repos\\baicuoiki2\\view\\exportslipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|solutionrelative:view\\exportslipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|C:\\Users\\ledin\\source\\repos\\baicuoiki2\\view\\exportslipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|solutionrelative:view\\exportslipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|c:\\users\\ledin\\source\\repos\\baicuoiki2\\view\\exportslipdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|solutionrelative:view\\exportslipdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|c:\\users\\ledin\\source\\repos\\baicuoiki2\\controller\\exportslipdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03976883-AAC1-4E58-AE57-5694105D29AE}|baicuoiki2.csproj|solutionrelative:controller\\exportslipdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exportslipdetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Exportslipdetails.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Exportslipdetails.Designer.cs",
+              "ToolTip": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Exportslipdetails.Designer.cs",
+              "RelativeToolTip": "View\\Exportslipdetails.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vzsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:33:49.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Export slip.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Export slip.cs",
+              "RelativeDocumentMoniker": "View\\Export slip.cs",
+              "ToolTip": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Export slip.cs",
+              "RelativeToolTip": "View\\Export slip.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:11:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exportslipdetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Exportslipdetails.cs",
+              "RelativeDocumentMoniker": "View\\Exportslipdetails.cs",
+              "ToolTip": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Exportslipdetails.cs [Design]",
+              "RelativeToolTip": "View\\Exportslipdetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:25:16.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Export slip controller.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\Controller\\Export slip controller.cs",
+              "RelativeDocumentMoniker": "Controller\\Export slip controller.cs",
+              "ToolTip": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\Controller\\Export slip controller.cs",
+              "RelativeToolTip": "Controller\\Export slip controller.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:22:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exportslipdetails.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Exportslipdetails.cs",
+              "RelativeDocumentMoniker": "View\\Exportslipdetails.cs",
+              "ToolTip": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\View\\Exportslipdetails.cs",
+              "RelativeToolTip": "View\\Exportslipdetails.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:26:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exportslipdetailscontroller.cs",
+              "DocumentMoniker": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\Controller\\Exportslipdetailscontroller.cs",
+              "RelativeDocumentMoniker": "Controller\\Exportslipdetailscontroller.cs",
+              "ToolTip": "C:\\Users\\ledin\\source\\repos\\baicuoiki2\\Controller\\Exportslipdetailscontroller.cs",
+              "RelativeToolTip": "Controller\\Exportslipdetailscontroller.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAWwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:51:36.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

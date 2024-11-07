@@ -1,0 +1,16 @@
+C:\Users\ledin\source\repos\baicuoiki2\bin\Debug\baicuoiki2.exe.config
+C:\Users\ledin\source\repos\baicuoiki2\bin\Debug\baicuoiki2.exe
+C:\Users\ledin\source\repos\baicuoiki2\bin\Debug\baicuoiki2.pdb
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.csproj.AssemblyReference.cache
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.Properties.Resources.resources
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.csproj.GenerateResource.cache
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.csproj.CoreCompileInputs.cache
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.exe
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.pdb
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.Client.resources
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.Form1.resources
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.View.Export_slip.resources
+C:\Users\ledin\source\repos\baicuoiki2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ledin\source\repos\baicuoiki2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.csproj.Up2Date
+C:\Users\ledin\source\repos\baicuoiki2\obj\Debug\baicuoiki2.ExportSlipDetails.resources
